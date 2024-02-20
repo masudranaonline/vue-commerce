@@ -612,7 +612,7 @@
     <!--end offer section-->
 
 
-    <!--start  section-->
+    <!--start Opportunities  section-->
     <div class="mx-auto max-w-7xl my-6 py-4 bg-white rounded-md shadow-md px-4">
         <div class="grid grid-cols-2 md:grid-cols-5 divide-x-2">
             <div
