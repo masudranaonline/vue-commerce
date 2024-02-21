@@ -306,21 +306,21 @@
                         </a>
                     </div>
                     <div class="flex justify-start space-x-2 py-3">
-                        <img src="../public/Images/service1.png" alt="" class="w-6 h-6">
+                        <img src="../../Images/service1.png" alt="" class="w-6 h-6">
                         <div class="">
                             <p class="text-sm font-medium">100% Authentic from Trusted Brand</p>
                             <span class="text-xs text-gray-400">or Get 2x Your Money Back</span>
                         </div>
                     </div>
                     <div class="flex justify-start space-x-2 py-3">
-                        <img src="../public/Images/service2.png" alt="" class="w-6 h-6">
+                        <img src="../../Images/service2.png" alt="" class="w-6 h-6">
                         <div class="">
                             <p class="text-sm font-medium">100% Authentic from Trusted Brand</p>
                             <span class="text-xs text-gray-400">or Get 2x Your Money Back</span>
                         </div>
                     </div>
                     <div class="flex justify-start space-x-2 py-3">
-                        <img src="../public/Images/service3.png" alt="" class="w-6 h-6">
+                        <img src="../../Images/service3.png" alt="" class="w-6 h-6">
                         <div class="">
                             <p class="text-sm font-medium">100% Authentic from Trusted Brand</p>
                             <span class="text-xs text-gray-400">or Get 2x Your Money Back</span>
