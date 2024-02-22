@@ -342,9 +342,9 @@
                     <div class="items-center hidden w-full md:w-auto md:flex md:order-1" id="navbar-primary">
                         <ul
                             class="flex flex-col gap-2 font-medium border border-gray-100 rounded-sm rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 dark:text-gray-200 md:dark:bg-gray-900 dark:border-gray-700">
-                            <li><a aria-current="page"
+                            <li><router-link to="/" aria-current="page"
                                     class="hover:bg-[#ffab1f] hover:text-white block px-2 py-3 text-base font-medium"
-                                    href="">Home</a></li>
+                                    >Home</router-link></li>
                             <li><button id="dropdownNavbarLink" data-dropdown-toggle="Products3"
                                     data-dropdown-trigger="hover"
                                     class="font-medium w-full md:w-auto text-base px-2 py-3 text-center inline-flex items-center hover:bg-[#ffab1f] hover:text-white">Products
@@ -360,8 +360,8 @@
                                     style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate3d(243.2px, -28px, 0px);">
                                     <ul class="text-base text-gray-700 dark:text-gray-200"
                                         aria-labelledby="dropdownLargeButton">
-                                        <li><a class="border-b block px-4 py-2 hover:bg-[#ffab1f] hover:text-white dark:hover:bg-gray-600 dark:hover:text-white"
-                                                href="">Ingot</a></li>
+                                        <li><router-link class="border-b block px-4 py-2 hover:bg-[#ffab1f] hover:text-white dark:hover:bg-gray-600 dark:hover:text-white"
+                                                to="/product-list">All Products</router-link></li>
                                     </ul>
                                 </div>
                             </li>

@@ -2,7 +2,7 @@
 
 <template>
 
-  
+
 
     <div class="mx-auto max-w-7xl py-5">
         <div class="md:grid grid-cols-4 gap-1 ">
@@ -82,8 +82,7 @@
                         </li>
                         <li class="w-full ">
                             <div class="flex items-center ">
-                                <input id="list-checkbox-military" type="checkbox" value=""
-                                    name="list-checkbox"
+                                <input id="list-checkbox-military" type="checkbox" value="" name="list-checkbox"
                                     class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
                                 <label for="list-checkbox-military"
                                     class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
@@ -92,8 +91,7 @@
                         </li>
                         <li class="w-full ">
                             <div class="flex items-center ">
-                                <input id="list-checkbox-passport" type="checkbox" value=""
-                                    name="list-checkbox"
+                                <input id="list-checkbox-passport" type="checkbox" value="" name="list-checkbox"
                                     class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
                                 <label for="list-checkbox-passport"
                                     class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
@@ -216,7 +214,7 @@
                                 <span
                                     class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3">5.0</span>
                             </div>
-                            <div class="md:flex justify-between items-center py-3">
+                            <div class="flex justify-between items-center py-3">
                                 <div class="">
                                     <span class="text-red-600 text-base font-semibold">৳203</span>
                                     <p class="flex justify-start items-center space-x-2"><del
@@ -225,11 +223,28 @@
 
                                 </div>
                                 <div class="pt-4 md:pt-0">
+
+
                                     <button
-                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
-                                        Add to cart
+                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-gray-400  hover:bg-yellow-400 text-white rounded-full">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                            stroke-width="1.5" stroke="currentColor" class="w-6 h-8">
+                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
+                                        </svg>
                                     </button>
                                 </div>
+
+                            </div>
+                            <div class="flex justify-between">
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
+                                    Add to cart
+                                </button>
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-yellow-400  hover:bg-yellow-500 text-white rounded-sm">
+                                    Order Now
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -268,7 +283,7 @@
                                 <span
                                     class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3">5.0</span>
                             </div>
-                            <div class="md:flex justify-between items-center py-3">
+                            <div class="flex justify-between items-center py-3">
                                 <div class="">
                                     <span class="text-red-600 text-base font-semibold">৳203</span>
                                     <p class="flex justify-start items-center space-x-2"><del
@@ -277,11 +292,28 @@
 
                                 </div>
                                 <div class="pt-4 md:pt-0">
+
+
                                     <button
-                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
-                                        Add to cart
+                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-gray-400  hover:bg-yellow-400 text-white rounded-full">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                            stroke-width="1.5" stroke="currentColor" class="w-6 h-8">
+                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
+                                        </svg>
                                     </button>
                                 </div>
+
+                            </div>
+                            <div class="flex justify-between">
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
+                                    Add to cart
+                                </button>
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
+                                    Order Now
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -320,7 +352,7 @@
                                 <span
                                     class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3">5.0</span>
                             </div>
-                            <div class="md:flex justify-between items-center py-3">
+                            <div class="flex justify-between items-center py-3">
                                 <div class="">
                                     <span class="text-red-600 text-base font-semibold">৳203</span>
                                     <p class="flex justify-start items-center space-x-2"><del
@@ -329,11 +361,28 @@
 
                                 </div>
                                 <div class="pt-4 md:pt-0">
+
+
                                     <button
-                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
-                                        Add to cart
+                                        class="text-sm font-medium space-x-2 border px-2 py-1 bg-gray-400  hover:bg-yellow-400 text-white rounded-full">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                            stroke-width="1.5" stroke="currentColor" class="w-6 h-8">
+                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
+                                        </svg>
                                     </button>
                                 </div>
+
+                            </div>
+                            <div class="flex justify-between">
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
+                                    Add to cart
+                                </button>
+                                <button
+                                    class="text-2xs md:text-xs lg:text-sm font-medium space-x-2 border px-2 py-1 bg-blue-600  hover:bg-blue-800 text-white rounded-sm">
+                                    Order Now
+                                </button>
                             </div>
                         </div>
                     </div>
