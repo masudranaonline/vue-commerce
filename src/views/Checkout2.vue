@@ -7,7 +7,8 @@
 
                 <!-- ADd address -->
                 <div class="bg-white p-4">
-                    <form action="">
+                    <h1 class="text-2xl font-medium text-gray-500 py-3 border-b-2 border-[#ffab1f]">Shipping Address <small class="text-sm text-gray-400">(Please Fill Out Your Information)</small></h1>
+                    <form action="" class="pt-3">
                         <div class="grid md:grid-cols-2 gap-4">
                             <div class="">
                                 <div class="mb-6">
