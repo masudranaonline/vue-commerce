@@ -8,7 +8,7 @@
     <div class="mx-auto max-w-7xl  bg-white my-4">
         <div class="grid lg:grid-cols-4 gap-2">
 
-            <div class="col-span-3">
+            <div class="lg:col-span-3">
                 <section class="py-8">
                     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                         <div class="grid grid-cols-1 md:grid-cols-2">
@@ -207,7 +207,7 @@
 
             </div>
 
-            <div class="col-span-1 bg-slate-50 w-full p-4 mx-2">
+            <div class="lg:col-span-1 bg-slate-50  p-4 mx-2">
                 <div class="flex justify-between">
                     <p class="text-xs font-sans text-gray-600">Delivery</p>
                     <a href="">

@@ -6,7 +6,7 @@
         <div class="grid md:grid-cols-4 gap-4">
             <div class="md:col-span-3">
                 <h1 class="text-xl font-semibold text-gray-700 py-4">Select Payment Method</h1>
-                
+
                 <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2 px-2">
                     <div class="border px-4 pt-4 pb-6 flex flex-col text-center bg-white">
                         <img src="../../public/Images/card.png" class="w-12 h-12 mx-auto pb-1" alt="">
@@ -43,7 +43,7 @@
                         <p class="text-xs font-semibold text-slate-700">Cash On Delivery</p>
                         <span class="text-xs text-gray-400 pt-1 font-medium">Cash On Delivery</span>
                     </div>
-                    
+
                 </div>
             </div>
             <div class="col-span-1 px-4 ">

@@ -6,108 +6,112 @@
 
     <div class="mx-auto max-w-7xl py-5">
         <div class="md:grid grid-cols-4 gap-1 ">
-            <div class="bg-white p-4 ">
-                <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">Category</h1>
-                <ul class="leading-7">
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
-                    <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
-                        <a href="">
-                            <span class="text-sm font-medium ">Facial Cleansers</span>
-                        </a>
-                    </li>
+            <div class="">
+                <div class="bg-white p-4 ">
+                    <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">Category</h1>
+                    <ul class="leading-7">
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
+                        <li class=" text-gray-400 hover:text-red-600 hover:bg-gray-200">
+                            <a href="">
+                                <span class="text-sm font-medium ">Facial Cleansers</span>
+                            </a>
+                        </li>
 
 
-                </ul>
-                <button class="text-sm font-medium text-red-600 py-2">+ View More</button>
-
-                <div class="">
-                    <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">Brand</h1>
-                    <ul class="w-48 text-sm font-medium text-gray-900 bg-white  ">
-                        <li class="w-full ">
-                            <div class="flex items-center ">
-                                <input id="list-radio-license" type="checkbox" value="" name="list-radio"
-                                    class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
-                                <label for="list-radio-license"
-                                    class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">Driver
-                                    License </label>
-                            </div>
-                        </li>
-                        <li class="w-full ">
-                            <div class="flex items-center ">
-                                <input id="list-checkbox-id" type="checkbox" value="" name="list-checkbox"
-                                    class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
-                                <label for="list-checkbox-id"
-                                    class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">State
-                                    ID</label>
-                            </div>
-                        </li>
-                        <li class="w-full ">
-                            <div class="flex items-center ">
-                                <input id="list-checkbox-military" type="checkbox" value="" name="list-checkbox"
-                                    class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
-                                <label for="list-checkbox-military"
-                                    class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
-                                    Military</label>
-                            </div>
-                        </li>
-                        <li class="w-full ">
-                            <div class="flex items-center ">
-                                <input id="list-checkbox-passport" type="checkbox" value="" name="list-checkbox"
-                                    class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
-                                <label for="list-checkbox-passport"
-                                    class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
-                                    Passport</label>
-                            </div>
-                        </li>
                     </ul>
-                </div>
-                <div class="">
-                    <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">price</h1>
-                    <div class="flex space-x-3 items-center py-3">
-                        <input type="number" class="w-1/4 h-8 border-gray-400 " placeholder="Min">
-                        <span>-</span>
-                        <input type="number" class="w-1/4 h-8 border-gray-400" placeholder="Max">
-                        <button
-                            class="border px-4 py-1 text-base bg-orange-500 rounded-sm hover:bg-orange-600 text-white">Apply</button>
+                    <button class="text-sm font-medium text-red-600 py-2">+ View More</button>
+
+                    <div class="">
+                        <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">Brand</h1>
+                        <ul class="w-48 text-sm font-medium text-gray-900 bg-white  ">
+                            <li class="w-full ">
+                                <div class="flex items-center ">
+                                    <input id="list-radio-license" type="checkbox" value="" name="list-radio"
+                                        class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+                                    <label for="list-radio-license"
+                                        class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">Driver
+                                        License </label>
+                                </div>
+                            </li>
+                            <li class="w-full ">
+                                <div class="flex items-center ">
+                                    <input id="list-checkbox-id" type="checkbox" value="" name="list-checkbox"
+                                        class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+                                    <label for="list-checkbox-id"
+                                        class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">State
+                                        ID</label>
+                                </div>
+                            </li>
+                            <li class="w-full ">
+                                <div class="flex items-center ">
+                                    <input id="list-checkbox-military" type="checkbox" value=""
+                                        name="list-checkbox"
+                                        class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+                                    <label for="list-checkbox-military"
+                                        class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
+                                        Military</label>
+                                </div>
+                            </li>
+                            <li class="w-full ">
+                                <div class="flex items-center ">
+                                    <input id="list-checkbox-passport" type="checkbox" value=""
+                                        name="list-checkbox"
+                                        class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+                                    <label for="list-checkbox-passport"
+                                        class="w-full py-1 ms-2 text-sm font-medium text-gray-500 dark:text-gray-300">US
+                                        Passport</label>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="">
+                        <h1 class="border-b border-[#ffab1f] py-2 text-xl font-medium text-gray-500">price</h1>
+                        <div class="flex space-x-3 items-center py-3">
+                            <input type="number" class="w-1/4 h-8 border-gray-400 " placeholder="Min">
+                            <span>-</span>
+                            <input type="number" class="w-1/4 h-8 border-gray-400" placeholder="Max">
+                            <button
+                                class="border px-4 py-1 text-base bg-orange-500 rounded-sm hover:bg-orange-600 text-white">Apply</button>
+                        </div>
                     </div>
                 </div>
             </div>
