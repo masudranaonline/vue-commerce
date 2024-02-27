@@ -186,7 +186,7 @@
     
     
                         <button id="dropdownHoverButton1" data-dropdown-toggle="dropdownHover1"
-                            data-dropdown-trigger="hover" class=" border font-medium inline-flex items-center pl-2 "
+                            data-dropdown-trigger="hover" class=" border text-xs md:text-base font-medium inline-flex items-center pl-2 "
                             type="button">
                             Quick Link <p class="bg-yellow-300 py-2 px-2 ml-2"><i class="fa-solid fa-caret-down"></i></p>
                         </button>

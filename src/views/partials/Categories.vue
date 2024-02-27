@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+    import Categories from '@/components/Categories.vue'
+</script>
 
 <template>
     <div class="mx-auto max-w-7xl">
@@ -15,70 +17,22 @@
                 </div>
             </div>
             <div class="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 gap-2 pt-4">
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories1.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Trimmers Groomers</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories2.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">T-shart</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories1.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Trimmers Groomers</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories2.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">T-shart</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories1.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Trimmers Groomers</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories2.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">T-shart</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories1.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Trimmers Groomers</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories2.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">T-shart</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories1.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Trimmers Groomers</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories2.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">T-shart</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
-                <div class="p-4 border flex flex-col items-center text-center shadow-sm hover:shadow-md rounded-sm">
-                    <img src="../../../public/Images/categories3.jpg" alt="">
-                    <h6 class="text-sm pt-2 font-medium text-gray-800">Hand Strengtheners</h6>
-                </div>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
+                <Categories></Categories>
             </div>
         </div>
     </div>
