@@ -11,12 +11,12 @@
         <div class="w-full max-w-7xl px-4 md:px-0 lg-6 mx-auto relative z-10 bg-white shadow-md border">
             <div class="grid grid-cols-12">
                 <div
-                    class="col-span-12 xl:col-span-8 lg:pr-8 pt-14 pb-8 pr-4 pl-4  w-full max-xl:max-w-3xl max-xl:mx-auto">
+                    class="col-span-12 xl:col-span-8 lg:pr-8 pt-14 pb-4 pr-4 pl-4  w-full max-xl:max-w-3xl max-xl:mx-auto">
                     <div class="flex items-center justify-between pb-8 border-b border-gray-300">
-                        <h2 class="font-manrope font-bold text-3xl leading-10 text-black">Shopping Cart</h2>
-                        <h2 class="font-manrope font-semibold text-2xl leading-10 text-black">3 Items</h2>
+                        <h2 class="font-manrope font-bold text-2xl leading-10 text-black">Shopping Cart</h2>
+                        <h2 class="font-manrope font-semibold text-xl leading-10 text-black">3 Items</h2>
                     </div>
-                    <div class="grid grid-cols-12 mt-8 max-md:hidden pb-6 border-b border-gray-200">
+                    <div class="grid grid-cols-12 mt-4 max-md:hidden pb-4 border-b border-gray-200">
                         <div class="col-span-12 md:col-span-7">
                             <p class="font-normal text-lg leading-8 text-gray-400">Product Details</p>
                         </div>

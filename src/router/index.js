@@ -8,6 +8,7 @@ import Checkout from '../views/Checkout.vue'
 import Checkout2 from '../views/Checkout2.vue'
 import Payments from '../views/Payments.vue'
 import Login from '../views/Login.vue'
+import Register from '../views/Register.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -53,9 +54,9 @@ const router = createRouter({
       component: Login
     },
     {
-      path: '/about',
-      name: 'about',
-      component: AboutView
+      path: '/register',
+      name: 'register',
+      component: Register
     }
   ]
 })
